@@ -1,0 +1,4 @@
+1、zope文件夹中运行python setup.py
+2、twisted中运行python setup.py
+3、最后python chatserver.py
+
